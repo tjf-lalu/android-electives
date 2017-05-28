@@ -14,5 +14,8 @@ Day 1:
    . Relative Layout, LinearLayout, ConstrainsLayout
   + Using Toast to hello world
   + Add a button, name the id and the text
-   . Text will have yellow background->
+   . Text will have yellow background-> talk about strings.xml as well as internationalization
+  + Explore other directories of Android such as:
+   . colors.sml, mipmap, drawable,etc.
+ - Wrap up for the day, if there is still time, then maybe take some points from day 2 to talk.
   
