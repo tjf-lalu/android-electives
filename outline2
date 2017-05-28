@@ -1,0 +1,13 @@
+Day 2
+ + talk about some methods
+  - findViewById and cast
+  - onClickListener and onClick on xml
+ + other stuff
+  - TextView 
+  - EditText
+  - Button (maybe not)
+ + some big projects...
+  - when clicked a button, the text is taken from a text view and Toast that text to the screen.
+  - have 2 text views for user input decimals, 4 buttons corresponding for +,-,/,*, then edit text has the result
+ This should take the whole day.
+  
