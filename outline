@@ -12,6 +12,7 @@ Day 1:
   + Convince their siblings to buy the app for 10 dollars
   + Next one, basic stuff, layouts in Layout Files
    . Relative Layout, LinearLayout, ConstrainsLayout
+  + Using Toast to hello world
   + Add a button, name the id and the text
    . Text will have yellow background->
   
