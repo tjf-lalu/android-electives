@@ -1,0 +1,17 @@
+Day 1:
+- Show them some apps that I made, just to get general ideas what they will learn
+- Talks about why you should learn Android
+  + IOS vs Android market share
+  + Advantage of mobile programming
+  + Other stuff related
+  + Intro Android Studio, official release of Google and free
+- Talks about Android Studio
+  + Name you app, company domain, market share versions...
+  + Create a new app and able to make an emulator
+  + Run the emulator
+  + Convince their siblings to buy the app for 10 dollars
+  + Next one, basic stuff, layouts in Layout Files
+   . Relative Layout, LinearLayout, ConstrainsLayout
+  + Add a button, name the id and the text
+   . Text will have yellow background->
+  
